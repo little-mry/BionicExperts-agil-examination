@@ -9,4 +9,4 @@
 
 ## Andra iteration
 - [Trellotavla](https://trello.com/b/KNV8seQo/bionic-experts)
-- [Figma-skiss](https://www.figma.com/design/5kL1DZu9F8KEw415vGVUWy/Grov-skiss?node-id=15-17&t=e4vB8ojY
+- [Figma-skiss](https://www.figma.com/design/5kL1DZu9F8KEw415vGVUWy/Grov-skiss?node-id=15-17&t=e4vB8ojY)

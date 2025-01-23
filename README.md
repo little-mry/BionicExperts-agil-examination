@@ -1,6 +1,6 @@
 # Bionic Experts agil-examination
 ## Dokument
-- [Möteslogg📃](https://docs.google.com/document/d/1NTL5WT9wSlablv365kiQqnoVrew_rpi1yRk9A18ifyA/edit?usp=sharing)
+- [Möteslogg📃](https://1drv.ms/w/c/0f2a66cf9655c36c/EbSpy_bZuWhAq7EcYKnn1RkBhJkkDKMUMJClLXoO8LOTzQ?e=lAEvMv)
 
 
 ## Version 1 (innan kundmöte)

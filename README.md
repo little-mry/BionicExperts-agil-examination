@@ -4,7 +4,7 @@
 
 
 ## Version 1 (innan kundmöte)
-- [Trello 📊](https://trello.com/b/KNV8seQo/bionic-experts)
+- [Trello 📊](https://trello.com/b/cMchfHQy/bionic-experts)
 - [Figma 🖼️](https://www.figma.com/design/5kL1DZu9F8KEw415vGVUWy/Grov-skiss?node-id=15-17&t=e4vB8ojY)
 
 ## Version 2 (efter kundmöte)
